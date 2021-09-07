@@ -1,0 +1,10 @@
+{
+    dirPath : "H:/Test/TestTest/TestFolder", 
+
+    # File name before serial number ([fileName][serialNumber].extension )
+    fileName : "image_", 
+
+    # "ctime" : Sort by creation date
+    # "name" : Sort by file name before renaming
+    sortType : "ctime"
+}
