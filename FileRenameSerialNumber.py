@@ -76,7 +76,7 @@ def main():
 
     # set information
     args = sys.argv
-    if len(args) == 3:
+    if len(args) == 4:
         dirPath = args[ARG_INDEX_DIR_PATH]
         fileName = args[ARG_INDEX_FILE_NAME]
         sortType = args[ARG_INDEX_SORT_TYPE]
